@@ -293,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537551932479</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first commit">
+      <created>1537552076783</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537552076783</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -338,9 +345,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Splash Screen added" />
-    <MESSAGE value="first commit" />
     <MESSAGE value="UI updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI updated" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
