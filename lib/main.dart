@@ -52,7 +52,6 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text("Crypto App"),
         backgroundColor: Colors.lightBlue,
-        elevation: 5.0,
         leading: Icon(
           Icons.monetization_on,
           size: 30.00,
